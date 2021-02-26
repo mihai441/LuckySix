@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsX\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="D:\Facultate\luckysix\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_e73d3564a229f3c2bbfccde5ac89496b992eb618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsX\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="D:\Facultate\luckysix\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.6_efd289bcfbd135947675724fc00422259171b8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Facultate\luckysix\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76c97152c74c7a2b26b74b59fe5d67e50dce4046">
+        <dex dex="D:\Facultate\luckysix\android\build\intermediates\pre-dexed\debug\core-1.0_7e56b39a5881dc23324c0e32bfb45bc0fffc57d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AsX\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="D:\Facultate\luckysix\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_e0e5d4b194e2cb48c36ed6d6e135979d54f6c7e3.jar" />
+    </item>
+
+</items>

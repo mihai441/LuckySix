@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Dev\\luckysix\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Dev\\luckysix\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Facultate\\luckysix\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Facultate\\luckysix\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DEV\\luckysix\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\DEV\\luckysix\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
